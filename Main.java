@@ -1,0 +1,10 @@
+package jeuprojet;
+
+import jeuprojet.core.Game;
+
+
+public class Main {
+public static void main(String[] args) {
+new Game().run();
+}
+}
