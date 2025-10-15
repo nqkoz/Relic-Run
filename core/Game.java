@@ -22,15 +22,15 @@ public class Game {
     }
 
     public void run() {
-        System.out.println("Bienvenue dans JEUPROJET – tapez `help` pour l'aide.");
+        System.out.println("Bienvenue dans Relic run ! – tapez `help` pour l'aide.");
         facade.describeLocation();
         while (true) {
             if (facade.checkWinCondition()) {
-                System.out.println("\n🎉 Victoire ! Vous avez accompli votre quête. Fin du jeu.");
+                System.out.println("Victoire ! Vous avez accompli votre quête. Fin du jeu.");
                 return;
             }
             if (!GameState.getInstance().getPlayer().isAlive()) {
-                System.out.println("\n☠️ Vous êtes mort… Game Over.");
+                System.out.println("Vous êtes mort… Game Over.");
                 return;
             }
             System.out.print("\n> ");
