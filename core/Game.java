@@ -1,9 +1,9 @@
-package jeuprojet.core;
+package core;
 
-import jeuprojet.facade.GameFacade;
-import jeuprojet.model.World;
-import jeuprojet.model.characters.Player;
-import jeuprojet.patterns.singleton.GameState;
+import facade.GameFacade;
+import model.World;
+import model.characters.Player;
+import patterns.singleton.GameState;
 
 import java.util.Scanner;
 

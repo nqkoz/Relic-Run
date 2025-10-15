@@ -1,6 +1,4 @@
-package jeuprojet;
-
-import jeuprojet.core.Game;
+import core.Game;
 
 
 public class Main {

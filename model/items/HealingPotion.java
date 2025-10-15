@@ -1,9 +1,9 @@
-package jeuprojet.model.items;
+package model.items;
 
 
-import jeuprojet.model.Item;
-import jeuprojet.model.UseContext;
-import jeuprojet.patterns.singleton.GameState;
+import model.Item;
+import model.UseContext;
+import patterns.singleton.GameState;
 
 
 public class HealingPotion extends Item {

@@ -1,4 +1,4 @@
-package jeuprojet.model.characters;
+package model.characters;
 
 
 public class NPC {

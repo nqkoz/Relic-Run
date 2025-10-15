@@ -1,16 +1,16 @@
-package jeuprojet.model.characters;
+package model.characters;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import jeuprojet.model.Item;
-import jeuprojet.model.Room;       // <— important
-import jeuprojet.model.UseContext;
-import jeuprojet.patterns.state.StatusState;
-import jeuprojet.patterns.state.NormalState;
-import jeuprojet.patterns.strategy.AttackStrategy;
-import jeuprojet.patterns.strategy.MeleeAttack;
+import model.Item;
+import model.Room;       // <— important
+import model.UseContext;
+import patterns.state.StatusState;
+import patterns.state.NormalState;
+import patterns.strategy.AttackStrategy;
+import patterns.strategy.MeleeAttack;
 
 
 import java.util.*;

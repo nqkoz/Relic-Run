@@ -1,12 +1,12 @@
-package jeuprojet.facade;
+package facade;
 
 
-import jeuprojet.model.*;
-import jeuprojet.model.characters.*;
-import jeuprojet.patterns.factory.GameFactory;
-import jeuprojet.patterns.singleton.GameState;
-import jeuprojet.persistence.SaveLoadService;
-import jeuprojet.patterns.strategy.AttackStrategy;
+import model.*;
+import model.characters.*;
+import patterns.factory.GameFactory;
+import patterns.singleton.GameState;
+import persistence.SaveLoadService;
+import patterns.strategy.AttackStrategy;
 
 public class GameFacade {
 private final GameFactory factory = new GameFactory();

@@ -1,4 +1,4 @@
-package jeuprojet.core;
+package core;
 
 public class Command {
     private final CommandType type;

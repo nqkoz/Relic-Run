@@ -1,8 +1,8 @@
-package jeuprojet.model;
+package model;
 
 
-import jeuprojet.model.characters.Enemy;
-import jeuprojet.model.characters.NPC;
+import model.characters.Enemy;
+import model.characters.NPC;
 
 
 import java.util.*;

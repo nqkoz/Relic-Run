@@ -1,7 +1,7 @@
-package jeuprojet.patterns.singleton;
+package patterns.singleton;
 
-import jeuprojet.model.World;
-import jeuprojet.model.characters.Player;
+import model.World;
+import model.characters.Player;
 
 public class GameState {
 	private static GameState INSTANCE;

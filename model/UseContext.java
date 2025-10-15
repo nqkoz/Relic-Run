@@ -1,7 +1,7 @@
-package jeuprojet.model;
+package model;
 
 
-import jeuprojet.model.characters.Player;
+import model.characters.Player;
 
 
 public class UseContext {

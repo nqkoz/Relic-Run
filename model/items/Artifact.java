@@ -1,8 +1,8 @@
-package jeuprojet.model.items;
+package model.items;
 
 
-import jeuprojet.model.Item;
-import jeuprojet.model.UseContext;
+import model.Item;
+import model.UseContext;
 
 
 public class Artifact extends Item {

@@ -1,7 +1,7 @@
-package jeuprojet.model.characters;
+package model.characters;
 
 
-import jeuprojet.model.Item;
+import model.Item;
 
 
 import java.util.Random;
