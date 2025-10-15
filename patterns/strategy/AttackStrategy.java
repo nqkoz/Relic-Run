@@ -1,8 +1,8 @@
-package jeuprojet.patterns.strategy;
+package patterns.strategy;
 
 
-import jeuprojet.model.characters.Enemy;
-import jeuprojet.model.characters.Player;
+import model.characters.Enemy;
+import model.characters.Player;
 
 
 public interface AttackStrategy {

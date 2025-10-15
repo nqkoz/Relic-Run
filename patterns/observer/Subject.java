@@ -1,4 +1,4 @@
-package jeuprojet.patterns.observer;
+package patterns.observer;
 
 
 public interface Subject {

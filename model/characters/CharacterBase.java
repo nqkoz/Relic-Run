@@ -1,8 +1,8 @@
-package jeuprojet.model.characters;
+package model.characters;
 
 
-import jeuprojet.patterns.observer.Observer;
-import jeuprojet.patterns.observer.Subject;
+import patterns.observer.Observer;
+import patterns.observer.Subject;
 
 
 import java.util.ArrayList;

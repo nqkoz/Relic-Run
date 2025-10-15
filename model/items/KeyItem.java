@@ -1,9 +1,9 @@
-package jeuprojet.model.items;
+package model.items;
 
 
-import jeuprojet.model.Item;
-import jeuprojet.model.Room;
-import jeuprojet.model.UseContext;
+import model.Item;
+import model.Room;
+import model.UseContext;
 
 
 public class KeyItem extends Item {

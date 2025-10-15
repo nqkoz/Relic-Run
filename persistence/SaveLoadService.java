@@ -1,10 +1,10 @@
-package jeuprojet.persistence;
+package persistence;
 
-import jeuprojet.model.Room;
-import jeuprojet.model.World;
-import jeuprojet.model.characters.Player;
-import jeuprojet.patterns.factory.GameFactory;
-import jeuprojet.patterns.singleton.GameState;
+import model.Room;
+import model.World;
+import model.characters.Player;
+import patterns.factory.GameFactory;
+import patterns.singleton.GameState;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

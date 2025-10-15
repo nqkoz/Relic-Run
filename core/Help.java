@@ -1,4 +1,4 @@
-package jeuprojet.core;
+package core;
 
 public class Help {
 	public static final String TEXT = """

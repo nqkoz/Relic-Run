@@ -1,7 +1,7 @@
-package jeuprojet.patterns.state;
+package patterns.state;
 
 
-import jeuprojet.model.characters.Player;
+import model.characters.Player;
 
 
 public class NormalState implements StatusState {

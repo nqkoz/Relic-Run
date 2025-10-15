@@ -1,4 +1,4 @@
-package jeuprojet.core;
+package core;
 
 import java.util.Locale;
 
